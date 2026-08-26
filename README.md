@@ -1,2 +1,2 @@
-#  👋 Hi, I’m Simon!<br> Student and Programmer
-## 👨‍💻 Software Development Projects:
+#  👋 Hi, I’m Simon!<br> Student and Aspiring Cybersecurity Professional
+## 👨‍💻 Cybersecurity Projects
