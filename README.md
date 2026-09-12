@@ -1,2 +1,2 @@
-#  👋 Hi, I’m Simon!<br> Student and Aspiring Cybersecurity Professional
-## 👨‍💻 Cybersecurity Projects
+#  👋 Hi, I’m Simon!<br> Computer Science Student @UCSB and Aspiring Cybersecurity Professional
+
